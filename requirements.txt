@@ -1,0 +1,11 @@
+ultralytics
+opencv-python
+torch
+numpy
+pytesseract
+pyttsx3
+vosk
+sounddevice
+pillow
+flask
+requests
